@@ -1,3 +1,6 @@
 [submodule "gnulib"]
   path = gnulib
 	url = ../gnulib.git
+[submodule "translationproject"]
+	path = translationproject
+	url = ../translationproject.git

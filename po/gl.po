@@ -1,0 +1,1 @@
+../translationproject/PO-files/gl/sed-4.7.13.gl.po

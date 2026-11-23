@@ -1,0 +1,1 @@
+../translationproject/PO-files/pt/sed-4.9.72.pt.po

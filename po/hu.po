@@ -1,0 +1,1 @@
+../translationproject/PO-files/hu/sed-4.2.2.177.hu.po
